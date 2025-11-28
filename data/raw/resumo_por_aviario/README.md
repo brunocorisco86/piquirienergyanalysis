@@ -1,0 +1,1 @@
+considerar somente a coluna Semanas e Energia (kwh), filtrar somente linhas com dados e retirar as linhas onde na Coluna Semanas seja o subtotal Semana, trazendo somente os dados da idade de criacao do frango
